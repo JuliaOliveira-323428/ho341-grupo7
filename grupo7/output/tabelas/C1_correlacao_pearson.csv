@@ -1,0 +1,8 @@
+var,p_energia,p_proprietario,p_cooperativa,p_orientacao,p_irrigacao,p_financiamento,vp_estab
+Energia elétrica (%),1,0.202,0.243,0.353,0.122,0.34,0.315
+Produtor proprietário (%),0.202,1,0.208,0.142,-0.18,0.236,0.222
+Associado a cooperativa (%),0.243,0.208,1,0.813,-0.05,0.651,0.693
+Recebe orientação técnica (%),0.353,0.142,0.813,1,0.117,0.648,0.73
+Usa irrigação (%),0.122,-0.18,-0.05,0.117,1,-0.123,0.127
+Obteve financiamento (%),0.34,0.236,0.651,0.648,-0.123,1,0.395
+Valor da produção por estab. (mil R$),0.315,0.222,0.693,0.73,0.127,0.395,1
